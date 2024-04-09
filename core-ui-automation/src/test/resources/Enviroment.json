@@ -1,0 +1,38 @@
+{
+  "Environments": [
+    {
+      "Name": "MASTER",
+      "Portals": [
+        {
+          "Name": "TRELLO",
+          "LoginUrl": "",
+          "BaseUrl": "",
+          "Users": [
+            {
+              "Type": "TRELLO",
+              "Username": "",
+              "Password": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "QA",
+      "Portals": [
+        {
+          "Name": "TRELLO",
+          "LoginUrl": "",
+          "BaseUrl": "",
+          "Users": [
+            {
+              "Type": "TRELLO",
+              "Username": "",
+              "Password": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

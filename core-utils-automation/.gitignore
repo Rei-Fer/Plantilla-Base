@@ -1,0 +1,11 @@
+# Custom
+/.gradle/
+/gradle/
+/.idea/
+/build/
+/classes/
+/logs/
+/out/
+*.iml
+.idea/
+gradlew

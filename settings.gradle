@@ -1,0 +1,5 @@
+rootProject.name = 'Base'
+include 'core-utils-automation'
+include 'core-ui-automation'
+include 'core-ui-automation'
+
